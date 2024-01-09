@@ -27,15 +27,10 @@ print("Run Python")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC # Header
-
-# COMMAND ----------
-
-# MAGIC %md
 # MAGIC ##### Databricks Repos
 # MAGIC Step1: Add repo
 # MAGIC Step2: set up integration
 
 # COMMAND ----------
 
-
+print("Added a print ")
